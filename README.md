@@ -2,7 +2,11 @@
 A vbscript that locks a hidden folder
 
 # how to use
-Downolad Lock.vbs and Key.vbs. use Lock.vbs to create the hidden directory and set your password and Key.vbs to enter it using your password. once you've user Lock.vbs it is no longer needed, and you can rename Key.vbs to any name with the vbs extension.
+Downolad Lock.vbs and double-click it, it will ask you to set a password. then it will automatically create the hidden directory and generate the Key.vbs file. one that is done you won't need Lock.vbs, you can use Key.vbs to log into your folder.
+
+# Additionnal info
+the hidden folder location and the password are hardcoded into Key.vbs (as hex) which means you can move wherever you want, and rename it anything with the .vbs extention at the end and it will still open the same folder. 
+you can't use the same Lock.vbs script more than one time to make multiple folders. as each usage of the script overrides the last one.
 
 # How does it work
 Tt creates a hidden folder in the %userprofile% folder and opens it whenever you type the passwords. The directory path and the password are stored in hexadecimal to make sure cleaver noobies won't extract that info easily. 
