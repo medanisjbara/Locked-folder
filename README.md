@@ -21,5 +21,8 @@ This is just a test, or maybe a program that might help you hide your personal f
 
 An actual hacker or a programmer or even average people with the right set of skills might be able to decode/crack this way faster than you think
 
+for additionnal security use a vbs to vbe encoder. there are a bunch of them online.
+
 # (Comming soon)
-if you want to make the code harder to get hacked, use the randomized version, it uses randomised variable names to make it harder to track what the code is actually doing
+randomised variable names
+vbs to vbe internal encoder
