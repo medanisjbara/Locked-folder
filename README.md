@@ -4,7 +4,7 @@ A vbscript that locks a hidden folder
 this program was written in visual basic script to make it easy to run without needing to install anything on your computer
 
 # how to use
-Downolad Lock.vbs and double-click it, it will ask you to set a password. then it will automatically create the hidden directory and generate the Key.vbs file. one that is done 
+Downolad Lock.vbs and double-click it, it will ask you to set a password. then it will automatically create the hidden directory and generate the Key.vbs file. once that is done 
 
 you won't need Lock.vbs, you can use Key.vbs to log into your folder.
 
